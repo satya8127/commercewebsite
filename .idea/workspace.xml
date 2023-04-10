@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf198d48-f6fb-4935-a090-39f1d98c9fde" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/auth-service/src/main/java/com/microservice/authservice/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/microservice/authservice/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/apigateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/ApigatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/config/GatewayConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/controller/FallbackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/exception/JwtTokenMalformedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/exception/JwtTokenMissingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/filter/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/java/com/microservice/apigateway/util/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/src/test/java/com/microservice/apigateway/ApigatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/apigateway-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/apigateway-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/ApigatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/config/GatewayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/controller/FallbackController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/exception/JwtTokenMalformedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/exception/JwtTokenMissingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/filter/JwtAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/classes/com/microservice/apigateway/util/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/surefire-reports/TEST-com.microservice.apigateway.ApigatewayApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/surefire-reports/com.microservice.apigateway.ApigatewayApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/apigateway/target/test-classes/com/microservice/apigateway/ApigatewayApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/auth-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/AuthServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/exception/RefreshTokenException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/exception/RoleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/exception/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/exception/error/ApiError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/exception/error/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/jwt/AuthTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/jwt/JWTAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/jwt/JwtAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/jwt/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/model/ERole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/model/IdBasedEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/model/RefreshToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/request/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/request/SignUpRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/request/TokenRefreshRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/response/JWTResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/response/MessageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/payload/response/TokenRefreshResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/repository/RefreshTokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/security/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/security/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/service/RefreshTokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/java/com/microservice/authservice/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/src/test/java/com/microservice/authservice/AuthServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/AuthServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/controller/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/exception/RefreshTokenException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/exception/RoleException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/exception/UserNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/exception/error/ApiError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/exception/error/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/jwt/AuthTokenFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/jwt/JWTAccessDeniedHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/jwt/JwtAuthenticationEntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/jwt/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/model/ERole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/model/IdBasedEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/model/RefreshToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/request/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/request/SignUpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/request/TokenRefreshRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/response/JWTResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/response/MessageResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/payload/response/TokenRefreshResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/repository/RefreshTokenRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/security/CustomUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/security/CustomUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/service/RefreshTokenService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/auth-service/target/classes/com/microservice/authservice/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/configserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/src/main/java/com/microservice/configserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/configserver/src/test/java/com/microservice/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/orderservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/config/FeignConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/exception/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/exception/RestResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/external/client/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/external/client/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/external/decoder/CustomErrorDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/request/OrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/request/PaymentRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/response/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/response/OrderResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/response/PaymentResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/payload/response/ProductResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/service/OrderServiceImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/utils/PaymentDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/utils/PaymentMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/java/com/microservice/orderservice/utils/ProductDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/test/java/com/microservice/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/orderservice/src/test/java/com/microservice/orderservice/service/OrderServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/paymentservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/PaymentserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/controller/PaymentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/exception/PaymentServiceCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/exception/RestResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/model/TransactionDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/payload/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/payload/PaymentRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/payload/PaymentResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/repository/TransactionDetailsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/service/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/service/PaymentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/java/com/microservice/paymentservice/utils/PaymentMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/paymentservice/src/test/java/com/microservice/paymentservice/PaymentserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/productservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/conttoller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/exception/ProductServiceCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/exception/RestResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/payload/request/ProductRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/payload/response/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/payload/response/ProductResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/java/com/microservice/productservice/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/ProductServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/conttoller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/entity/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/exception/ProductServiceCustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/exception/RestResponseEntityExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/request/ProductRequest$ProductRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/request/ProductRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/response/ErrorResponse$ErrorResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/response/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/response/ProductResponse$ProductResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/payload/response/ProductResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/productservice/target/classes/com/microservice/productservice/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/service-registry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/src/main/java/com/microservice/serviceregistry/ServiceRegistryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/src/test/java/com/microservice/serviceregistry/ServiceRegistryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-commercewebsite/service-registry/target/classes/com/microservice/serviceregistry/ServiceRegistryApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/classes/com/microservice/serviceregistry/ServiceRegistryApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-registry/target/classes/com/microservice/serviceregistry/ServiceRegistryApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/jib-classpath-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/jib-main-class-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/layers/197ef9f4d911a481ea07e10557d129c1db3e08ac70fb79a816f7934acd68ed1d/494f07f3ab57f8cfa4ae50d4a99cffe2fc2d21332183c97b7dbd502cde0b72b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/layers/5079c32933ca02461d533bb75c55ff3e116daa8866fdca27a819eb424a50716d/7d9133059256c01bb7190b101b484a2db20db7c6de727550a9a4c39cf7a6584c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/layers/b673b427190d0dcc3f1024b2adc473359b149825e057f9471bb06a1e4cda0271/b4c02f703559396d649f15481cde4311c9696a828aee00898976e38f2a3cab1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/layers/ec103a5e6d373e7b0ccf4561d3feb5a6e51a6903e328d74a5c0b9d6fb4890b95/3299486cb91dde79489fbbd38e9d5733d6cbd6d33f7c6e2d0756d2472a039009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/selectors/460d6b60fbbd0209cf6e1587b8f9ae4348301af684477a877f3f99d42e74d9f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/selectors/5e2dcbf14956dd5a513b10aeab66e6e1ff8abb38a4c2522ebfa296558402de88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/selectors/68fa5517e5443940a922e343679f5553345999900a362aee5f1ad6c8385bbe14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-cache/selectors/a178b6858321bfd97b85eb5cf41616520bae2ff5dfc2cfcabd7be6a2565c2757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-image.digest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-image.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/jib-image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/service-registry-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/service-registry-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/surefire-reports/TEST-com.microservice.serviceregistry.ServiceRegistryApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/surefire-reports/com.microservice.serviceregistry.ServiceRegistryApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-registry/target/test-classes/com/microservice/serviceregistry/ServiceRegistryApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I5oOcJYQVdfIXVAL2m03BWTCFB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java practise/java8Practise&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.OrderServiceApplication">
+    <configuration name="ApigatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.apigateway.ApigatewayApplication" />
+      <module name="apigateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.authservice.AuthServiceApplication" />
+      <module name="auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.authservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.orderservice.OrderServiceApplication" />
+      <module name="orderservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.productservice.ProductServiceApplication" />
+      <module name="productservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegistryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.serviceregistry.ServiceRegistryApplication" />
+      <module name="service-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.serviceregistry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.ApigatewayApplication" />
+        <item itemvalue="Application.ServiceRegistryApplication" />
+        <item itemvalue="Application.AuthServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf198d48-f6fb-4935-a090-39f1d98c9fde" name="Changes" comment="" />
+      <created>1669480781937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669480781937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

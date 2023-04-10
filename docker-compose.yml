@@ -1,0 +1,106 @@
+version: "3"
+networks:
+  app-tier:
+    driver: bridge
+services:
+  serviceregistry:
+    image: 'satya8127/service-registery:latest'
+    container_name: serviceregistry
+    ports:
+      - 8761:8761
+  mysql:
+    image: 'mysql'
+    restart: unless-stopped
+    networks:
+      - app-tier
+    container_name: mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=dockerdb
+    ports:
+      - '3306:3306'
+  apiGateway:
+    image: 'satya8127/api-gateway:latest'
+    container_name: apigateway
+    ports:
+      - "9090:9090"
+    depends_on:
+      - serviceregistry
+
+    environment:
+      - EUREKA_SERVER_ADDRESS:http://171.17.0.1:8761/eureka
+
+    restart: always
+    network_mode: 'host'
+  authservice:
+    image: 'satya8127/auth-service:latest'
+    container_name: authservice
+    depends_on:
+      - serviceregistry
+      - apiGateway
+
+    ports:
+      - "7777:7777"
+    environment:
+      - EUREKA_SERVER_ADDRESS:http://171.17.0.1:8761/eureka
+    
+    restart: always
+    network_mode: 'host'
+
+
+  productservice:
+    image: 'satya8127/product-service:latest'
+    container_name: productservice
+    depends_on:
+      - serviceregistry
+      - apiGateway
+      - authservice
+      - mysql
+    
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      - EUREKA_SERVER_ADDRESS:http://171.17.0.1:8761/eureka
+    network_mode: 'host'
+
+
+
+  orderservice:
+    image: 'satya8127/order-service:latest'
+    container_name: orderservice
+    
+    
+    restart: always
+    ports:
+      - "8082:8082"
+    environment:
+      - EUREKA_SERVER_ADDRESS:http://171.17.0.1:8761/eureka
+
+    depends_on:
+      - serviceregistry
+      - apiGateway
+      - authservice
+      - mysql
+
+    
+    network_mode: 'host'
+
+  paymentservice:
+    image: 'satya8127/payment-service:latest'
+    container_name: paymentservice
+    
+    
+    restart: always
+    ports:
+      - "8083:8083"
+    environment:
+      - EUREKA_SERVER_ADDRESS:http://171.17.0.1:8761/eureka
+
+    depends_on:
+      - serviceregistry
+      - apiGateway
+      - authservice
+      - mysql
+    
+    network_mode: 'host'  
